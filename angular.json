@@ -30,7 +30,7 @@
             "scripts": [
               "./node_modules/bootstrap/dist/js/bootstrap.js",
               "./node_modules/jquery/dist/jquery.js"
-             ]
+            ]
           },
           "configurations": {
             "production": {
@@ -120,6 +120,10 @@
               "devServerTarget": "ToDo-List:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }
