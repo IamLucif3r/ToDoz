@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.center{
+    text-align: center;
+    align-items: center;
+}
+body{
+    background-color: #ffc2b4;
+}
