@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Contribution
+
+You can improvise the UI of the web app. 
+- Fork this repo
+- Clone this repository to your local machine.
+- Improvise the UI or add more features
+- Send a PR with your "YourName" and add a Summary of your contribution.
+
